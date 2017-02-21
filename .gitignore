@@ -27,3 +27,12 @@
 *.exe
 *.out
 *.app
+
+
+CMakeCache.txt
+CMakeFiles/
+Makefile
+_grub_grub2_config/
+binary_x86
+cmake_install.cmake
+kernel
